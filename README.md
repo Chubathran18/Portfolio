@@ -4,10 +4,10 @@
 
 ### Full Stack Developer & Data Analyst
 
-[![Portfolio](https://img.shields.io/badge/🔗_Live_Portfolio-00f5d4?style=for-the-badge&logoColor=black)](https://chubathrank.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chubathrank@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🔗_Live_Portfolio-00f5d4?style=for-the-badge&logoColor=black)](https://chubathran18.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://chubathran18.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chubathran18)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chubathran2004@gmail.com)
 
 </div>
 
@@ -71,16 +71,6 @@ No build step. No install. No config.
 
 ---
 
-## 📦 Deploy to Vercel
-
-```bash
-# Push to GitHub, then:
-# 1. Go to vercel.com
-# 2. Import this repo
-# 3. Click Deploy
-# Done — live in 30 seconds ✅
-```
-
 ---
 
 ## 📬 Contact
@@ -89,7 +79,7 @@ No build step. No install. No config.
 |---|---|
 | 📍 Location | Chennai, India |
 | 📞 Phone | +91 8098928492 |
-| 📧 Email | chubathrank@gmail.com |
+| 📧 Email | chubathran2004@gmail.com |
 | 💼 Available | From April 2026 |
 
 ---
